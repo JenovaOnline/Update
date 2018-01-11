@@ -1,3 +1,3 @@
-<Version: 0.3.1>
-/data/update.jpg https://jenova.rf.gd/images/jenova.jpg
+<Version: 1.0.1>
+/data/update.zip http://jenovaonlineupdater.rf.gd/update.zip
 <End of Version>
