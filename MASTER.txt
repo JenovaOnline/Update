@@ -1,3 +1,3 @@
 <Version: 0.3.1>
-%userprofile%/downloads http://jenova.rf.gd/images/jenova.jpg
+%userprofile%/downloads https://jenova.rf.gd/images/jenova.jpg
 <End of Version>
