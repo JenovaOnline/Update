@@ -1,3 +1,3 @@
-<Version: 1.01>
-/update/release.exe http://jenova.x10.mx/download/test.exe
+<Version: 0.3.0>
+/update/release.exe http://jenova.x10.mx/download/
 <End of Version>
