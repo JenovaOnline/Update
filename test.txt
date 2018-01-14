@@ -1,1 +1,3 @@
-
+<Version: 1.32>
+/update/beta.zip http://http://jenovaonlineupdater.rf.gd/download/update.zip
+<End of Version>
