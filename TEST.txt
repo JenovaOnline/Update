@@ -1,3 +1,4 @@
-<Version: 1.32>
+<Version: 1.33>
 /update/beta.zip http://download668.mediafire.com/qmtya8rx4tcg/632lphu97h1mtoj/update.zip
 <End of Version>
+--THIS IS JUST A TEST FOR UPDATING.
