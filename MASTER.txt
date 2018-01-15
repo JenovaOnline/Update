@@ -1,5 +1,3 @@
 <Version: 1.33>
 /update/beta.zip http://download2020.mediafire.com/og13vib2elog/jv6cwfeiuahllyu/update.zip
 <End of Version>
-
-Note: USE MEDIAFIRE FOR DOWNLOADS!
