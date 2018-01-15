@@ -1,3 +1,5 @@
 <Version: 1.32>
 /update/beta.zip http://jenova.x10.mx/download/update.zip
 <End of Version>
+
+Note: USE MEDIAFIRE FOR DOWNLOADS!
