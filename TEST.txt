@@ -1,4 +1,4 @@
-<Version: 1.34>
-/update/test.zip https://dl.dropboxusercontent.com/s/xpsdjlxwinr0ide/update.zip
+<Version: 1.00>
+/update/test.zip https://dl.dropboxusercontent.com/
 <End of Version>
 --THIS IS JUST A TEST FOR UPDATING.
