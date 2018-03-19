@@ -1,4 +1,4 @@
-<Version: 1.00>
+<Version: 1.01>
 /update/test.zip https://dl.dropboxusercontent.com/
 <End of Version>
 --THIS IS JUST A TEST FOR UPDATING.
