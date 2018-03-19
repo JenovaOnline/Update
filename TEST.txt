@@ -1,4 +1,4 @@
 <Version: 1.01>
-/update/test.zip https://dl.dropboxusercontent.com/
+/update/test.zip https://dl.dropboxusercontent.com/s/88nyerwtzrazdd9/Untitled.zip
 <End of Version>
 --THIS IS JUST A TEST FOR UPDATING.
