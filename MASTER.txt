@@ -1,3 +1,3 @@
-<Version: 1.44>
-update/Untitled2.exe https://jenovaonline.ga/game-update/Untitled%202.exe
+<Version: 1.45>
+update/Untitled2.exe https://jenovaonline.ga/game-update/update/Untitled%202.exe
 <End of Version>
