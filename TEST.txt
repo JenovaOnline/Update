@@ -1,4 +1,3 @@
 <Version: 1.01>
-/update/test.exe https://drive.google.com/uc?export=download&confirm=OjPi&id=1w8BrqjHB5TsEMCz84LczFrXgML0WF90q
-<End of Version>
+/update/test.exe https://yikes.xyz/Genesis.exe
 --THIS IS JUST A TEST FOR UPDATING.
