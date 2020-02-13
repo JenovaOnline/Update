@@ -1,3 +1,4 @@
 <Version: 1.01>
 /update/test.exe https://yikes.xyz/Genesis.exe
+<End of Version>
 --THIS IS JUST A TEST FOR UPDATING.
